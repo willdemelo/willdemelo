@@ -1,4 +1,8 @@
+# Welcome!
 
+My name is Will, and I am a graduate student in UCSD's Computational Social Sciences program.
+
+I am currently studying machine learning methods in order to contribute to the [*DeepVerse*](https://github.com/DeepVerseLib) series of projects in using neural networks to combine tabular and nontabular data and promote accessibility of machine learning methods to social scientists.
 
 <!--
 **willdemelo/willdemelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
